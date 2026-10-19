@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64" role="img" aria-label="Logotipo de desarrollador, símbolo de código en turquesa sobre fondo morado oscuro">
+  <rect width="64" height="64" rx="13" fill="#120914"/>
+  <path d="M24 20 13 32 24 44" fill="none" stroke="#2dd4bf" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 20 51 32 40 44" fill="none" stroke="#2dd4bf" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36.5 17 27.5 47" fill="none" stroke="#78184a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M35 19 29 45" fill="none" stroke="#2dd4bf" stroke-width="4.1" stroke-linecap="round"/>
+</svg>
